@@ -5,8 +5,6 @@ import './App.css'
 
 function App() {
   const [count, setCount] = useState([])
-  const [sk,setsk]= useState([]);
-  console.log(sk)
 
   useEffect(() => {
     fetch( import.meta.env.VITE_API_URL)
@@ -27,9 +25,6 @@ function App() {
             count?.map(item => <li key={item.id}>{item.email}</li>)
            }
       </ul>
-      <p>
-        {setsk(["sk","si"])}
-      </p>
         
     </>
   )
