@@ -7,4 +7,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Dragoon News is a responsive front-end web application build with react that delivers real-time news articles on a variety of topics, complete with user authentication for personalized access. Built with modern web technologies, the app ensures a seamless user experience across devices and secure login functionality using firebase authentication.let's build the project together.😍
 
 ### Base URL 
-The base url for the API is:[sakib](https://openapi.programming-hero.com/api)
+The base url for the API is:[https://openapi.programming-hero.com/api](https://openapi.programming-hero.com/api)
+
+Endpoints
+  1.Get All News Categories
+- item 1
