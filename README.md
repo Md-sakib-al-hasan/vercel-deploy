@@ -11,7 +11,7 @@ The base url for the API is:[https://openapi.programming-hero.com/api](https://o
 
 ### Endpoints
 
-<ul style="list-style-type: square; padding-left: 20px;">
+<ul style="list-style-type: circle; padding-left: 20px;">
   <li style="color: blue;">Item 1</li>
   <li style="color: green;">Item 2
     <ul style="list-style-type: circle; padding-left: 20px;">
