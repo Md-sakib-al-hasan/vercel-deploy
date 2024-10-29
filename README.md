@@ -11,7 +11,7 @@ The base url for the API is:[https://openapi.programming-hero.com/api](https://o
 
 ### Endpoints
 
-<ul style="list-style-type:circle">
+<ul style="list-style-type:squre">
   <li>Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
