@@ -20,6 +20,11 @@ function App() {
             count?.map(item => <li key={item.id}>{item.name}</li>)
            } 
       </ul>
+      <ul>
+      {
+            count?.map(item => <li key={item.id}>{item.email}</li>)
+           }
+      </ul>
         
     </>
   )
