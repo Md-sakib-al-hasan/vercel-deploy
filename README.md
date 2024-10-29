@@ -11,12 +11,10 @@ The base url for the API is:[https://openapi.programming-hero.com/api](https://o
 
 ### Endpoints
 
-<ul style="list-style-type:squre">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
- 
+ <ul style="list-style-type: circle; padding-left: 20px;">
+      <li style="color: red;">Sub-item 2.1</li>
+      <li style="color: orange;">Sub-item 2.2</li>
+    </ul>
 
 <img >
 
