@@ -10,5 +10,12 @@ Dragoon News is a responsive front-end web application build with react that del
 The base url for the API is:[https://openapi.programming-hero.com/api](https://openapi.programming-hero.com/api)
 
 #### Endpoints
-  1.Get All News Categories
-- item 1
+  <ul style="list-style-type: square; padding-left: 20px;">
+  <li style="color: blue;">Item 1</li>
+  <li style="color: green;">Item 2
+    <ul style="list-style-type: circle; padding-left: 20px;">
+      <li style="color: red;">Sub-item 2.1</li>
+      <li style="color: orange;">Sub-item 2.2</li>
+    </ul>
+  </li>
+</ul>
