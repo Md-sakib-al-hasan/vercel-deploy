@@ -13,12 +13,12 @@ The base url for the API is:[https://openapi.programming-hero.com/api](https://o
 
 <ul style="list-style-type: none; padding-left: 20px;">
 
-  <li style="color: green;">
+  
     <ul style="list-style-type: circle; padding-left: 20px;">
       <li style="color: red;">Sub-item 2.1</li>
       <li style="color: orange;">Sub-item 2.2</li>
     </ul>
-  </li>
+  
 </ul>
   
 
