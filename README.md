@@ -20,8 +20,23 @@ The base url for the API is:[https://openapi.programming-hero.com/api](https://o
     </ul>
   
 </ul>
+
+
   
 
 <img >
 
 <vidoe >
+
+# Import Statements
+
+<div style="display: flex; align-items: center;">
+  <img src="https://via.placeholder.com/20" alt="icon" style="margin-right: 8px;" />
+  <pre>
+    <code>
+import '@mantine/core/styles.layer.css';
+import 'mantine-contextmenu/styles.layer.css';
+import './layout.css';
+    </code>
+  </pre>
+</div>
